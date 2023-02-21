@@ -4,7 +4,8 @@ mi.md
 
 node_modules
 
-./src/services/diariesPrueba.ts
+./src/services/diariesPrueba.ts 
+
 
 # Logs
 logs
